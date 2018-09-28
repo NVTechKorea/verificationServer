@@ -9,3 +9,5 @@ Verification server for DreamOS Base applications
 - DreamOS
 	- [READY] Beta 10
 	- [Not Supported] Beta 0~9
+- MacHiddenUserUtil
+	- [SIGNED] 1.7
