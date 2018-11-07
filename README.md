@@ -2,8 +2,9 @@
 Verification server for DreamOS Base applications
 
 # Supported Applications
-- DreamOS (system.dream.dreamOS)
-- *MessageEncryptor (application.dream.aesEncryptor) - Signed from MessageEncryptor Repository*
+- DreamOS
+- *MessageEncryptor - Signed from MessageEncryptor Repository*
+- RISA - Discord Bot
 
 # Signed Versions
 - DreamOS
@@ -11,3 +12,6 @@ Verification server for DreamOS Base applications
 	- [Not Supported] Beta 0~9
 - Verstect
 	- [SIGNED] 1.7
+- RISA
+	- [SIGNED] version>181103.1
+	- [UNSINGED] version<181103.1
